@@ -1,0 +1,5 @@
+#database.cnf
+[client]
+user = 'root'
+password = 'rooot'
+default-character-set = 'utf8'

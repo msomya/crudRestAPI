@@ -34,22 +34,34 @@ class dataImport(object):
 
 class DBManage(object):
 	def __init__(self):
-		self.servaddr = None
-		self.name = None
-		self.password = None
-		self.database = None
+		self.servaddr = "localhost" #None
+		self.name = "root" #None
+		self.password = "root" #None
+		self.database = "elecIT" #None
+		#fpoint = open("database.cnf", "w")
+		#fpoint.write('[client]\ndefault-character-set = utf8\n')
+		#fpoint.close()
 
 	def setServerAddr(self,s):
 		self.servaddr = s
 	
 	def setName(self,n):
 		self.name = n
+		#fpoint = open("database.cnf","a")
+		#fpoint.write('user = '+self.name+'\n')
+		#fpoint.close()
 
 	def setPassword(self,p):
 		self.password = p
+		#fpoint = open("database.cnf","a")
+		#fpoint.write('password = '+self.password+'\n')
+		#fpoint.close()
 
 	def setDBname(self,dbname):
 		self.database = dbname
+		#fpoint = open("database.cnf","a")
+		#fpoint.write('database = '+self.database+'\n')
+		#fpoint.close()
 	
 	def getSocket(self):
 		return self.servaddr
@@ -83,10 +95,10 @@ class DBManage(object):
 
 d = dataImport()
 database = DBManage()
-database.setServerAddr(raw_input("Enter the server address: "))
-database.setName(raw_input("Enter the username: "))
-database.setPassword(raw_input("Enter the password: "))
-database.setDBname(raw_input("Enter the database name: "))
+#database.setServerAddr(raw_input("Enter the server address: "))
+#database.setName(raw_input("Enter the username: "))
+#database.setPassword(raw_input("Enter the password: "))
+#database.setDBname(raw_input("Enter the database name: "))
 db = database.connectDB()
 cursor = database.createTable()
 d.insertData(db,cursor,"dataSets/datafile.csv",database.getDBname())
