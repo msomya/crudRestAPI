@@ -87,7 +87,7 @@ class DBManage(object):
 		#creating a table in the database
 		self.cursor = self.db.cursor()
 		self.cursor.execute("drop table if exists production")
-		sql = "create table production(id int not null auto_increment,item varchar(100) not null, year varchar(20) not null, data int not null, primary key(id) unique(item,year))"
+		sql = "create table production(id int not null auto_increment,item varchar(100) not null, year varchar(20) not null, data int not null, primary key(id), constraint unique(item,year))"
 		self.cursor.execute(sql)
 		return self.cursor
 
