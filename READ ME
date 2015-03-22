@@ -1,0 +1,28 @@
+To run this project you need the following software:
+Django 1.6.2
+python 2.7
+mysql
+mysql-db
+REST framework api
+
+Steps to run the project:
+In the crudRestAPI,
+1. Run 'python manage.py syncdb' command to build the database
+2. Run ETL.py file to populate the database
+3. To start the server run the 'python manage.py runserver' command
+
+This project has hosted on msomya.pythonanywhere.com and you can access the functionalities using the following urls:
+1. Read or Create: http://msomya.pythonanywhere.com/api/production/
+Read has to be done through GET request;
+Create has to be done through POST request;
+2. Search: http://msomya.pythonanywhere.com/api/production/search/
+Search has to be done through GET request;
+Search can be done on the basis of item, year or both.
+3. Update or Delete: http://msomya.pythonanywhere.com/api/production/modify/
+Update has to be done through PUT request; 
+Delete has to be done through DELETE;
+For delete and update, both item and year are required
+
+For admin priviliges the url is: http://msomya.pythonanywhere.com/admin/dashboard
+username: admin
+password: admin

@@ -4,7 +4,7 @@ import requests
 import pprint
 import json
 
-urlToTest = "http://msomya.pythonanywhere.com/api/production/search/?"
+urlToTest = "http://msomya.pythonanywhere.com/api/production/modify/?"
 
 #Test case when both the parameters are given
 data = "item=Consumer Electronics&&year=2007-08"
