@@ -6,17 +6,20 @@
 import MySQLdb
 
 class dataImport(object):
+	def __init__(self):
+		self.id = 0
 	def insertData(self,db,cursor,filename,dbname):
 		#insert the data from the file datafile.csv(here)
 		fo = open(filename,"r")
-		str = fo.readline()
+		line = fo.readline()
 		#the first line is needed for the column year
-		column = str.split(',')
-		str = fo.readline()
-		while str:
-			words = str.split(',')
+		column = line.split(',')
+		line = fo.readline()
+		while line:
+			words = line.split(',')
 			for i in range(1,len(words)):
-				sql = "insert into production(Item, year, data) values ("+"'"+words[0][1:-1]+"', "
+				self.id = self.id+1;
+				sql = "insert into production(id, item, year, data) values ("+str(self.id)+", '"+words[0][1:-1]+"', "
 				if i == len(words)-1:
 					#because the last letter of each last word in a line is '\n'
 					#the range is added is to remove "
@@ -29,7 +32,7 @@ class dataImport(object):
 					db.commit()
 				except:
 					db.rollback()
-			str = fo.readline()
+			line = fo.readline()
 		fo.close()
 
 class DBManage(object):
@@ -84,7 +87,7 @@ class DBManage(object):
 		#creating a table in the database
 		self.cursor = self.db.cursor()
 		self.cursor.execute("drop table if exists production")
-		sql = "create table production(Item varchar(100), year varchar(20), data int, primary key(Item,year))"
+		sql = "create table production(id int not null auto_increment,item varchar(100) not null, year varchar(20) not null, data int not null, primary key(id) unique(item,year))"
 		self.cursor.execute(sql)
 		return self.cursor
 

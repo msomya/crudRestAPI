@@ -10,5 +10,5 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^api/token', obtain_auth_token),
+    url(r'^api/',include('dashboard.urls')),
 )

@@ -1,0 +1,456 @@
+Downloading/unpacking httpie
+  Getting page http://pypi.python.org/simple/httpie
+  URLs to search for versions for httpie:
+  * http://pypi.python.org/simple/httpie
+  Analyzing links from page https://pypi.python.org/simple/httpie/
+    Skipping link https://pypi.python.org/packages/2.7/h/httpie/httpie-0.8.0-py2.py3-none-any.whl#md5=1da91b73d884b9123d36982ac2b115a6 (from https://pypi.python.org/simple/httpie/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/h/httpie/httpie-0.9.0-py2.py3-none-any.whl#md5=76c94093b32e5257c097b15519f2b64a (from https://pypi.python.org/simple/httpie/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/h/httpie/httpie-0.9.2-py2.py3-none-any.whl#md5=1310bd6cee3b8eb6a4f33fe13c1dc162 (from https://pypi.python.org/simple/httpie/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.4/h/httpie/httpie-0.9.1-py2.py3-none-any.whl#md5=8f7f01169e65a0cb08b27103e8387637 (from https://pypi.python.org/simple/httpie/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.1.tar.gz#md5=4e3df049538fde2b6af93fc94433be69 (from https://pypi.python.org/simple/httpie/), version: 0.1.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.2.tar.gz#md5=97aa957ffa1ef86575090f9da1d3ce20 (from https://pypi.python.org/simple/httpie/), version: 0.1.2
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.3.tar.gz#md5=7f0ce2bd301a35c294e5fe6fb35a5639 (from https://pypi.python.org/simple/httpie/), version: 0.1.3
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.4.tar.gz#md5=3bb45628cec351a34ee2f90749314fea (from https://pypi.python.org/simple/httpie/), version: 0.1.4
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.5.tar.gz#md5=3a6b8a4ac4801925de0ba06b0cf6ce01 (from https://pypi.python.org/simple/httpie/), version: 0.1.5
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.6.tar.gz#md5=d481e4f1f689a487d50cdd16d906273a (from https://pypi.python.org/simple/httpie/), version: 0.1.6
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.1.tar.gz#md5=820be3f35bb59545a58f1ea7b12d0799 (from https://pypi.python.org/simple/httpie/), version: 0.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.0.tar.gz#md5=2a693df782ec986ff894e91ea17b27ef (from https://pypi.python.org/simple/httpie/), version: 0.2.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.1.tar.gz#md5=fde96ceebb78ce78828c53685230122a (from https://pypi.python.org/simple/httpie/), version: 0.2.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.2.tar.gz#md5=fe227b2ec0b441a55ac391746fe2ed6f (from https://pypi.python.org/simple/httpie/), version: 0.2.2
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.3.tar.gz#md5=402b1d6588567c586376b39d1c831fef (from https://pypi.python.org/simple/httpie/), version: 0.2.3
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.4.tar.gz#md5=bcea5f2a8e73ae3a5e786a7f2f4af3de (from https://pypi.python.org/simple/httpie/), version: 0.2.4
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.4dev.tar.gz#md5=58a3bfd35f35bbe8f175c9d621eb0ea4 (from https://pypi.python.org/simple/httpie/), version: 0.2.4dev
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.5.tar.gz#md5=be545e192524ef84e6d3f81289c445db (from https://pypi.python.org/simple/httpie/), version: 0.2.5
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.6.tar.gz#md5=a16d29d9d7cb0cb708fffd67b8b96691 (from https://pypi.python.org/simple/httpie/), version: 0.2.6
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.2.7.tar.gz#md5=e7f84919a5b476ae39ef13aff5d34716 (from https://pypi.python.org/simple/httpie/), version: 0.2.7
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.3.0.tar.gz#md5=0a78351bec90683c8057e4747f479cae (from https://pypi.python.org/simple/httpie/), version: 0.3.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.3.1.tar.gz#md5=4b6461ff7e12d8ef30481c198135388b (from https://pypi.python.org/simple/httpie/), version: 0.3.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.4.0.tar.gz#md5=0fb63f8eab5c13a9d78da80b6b00b210 (from https://pypi.python.org/simple/httpie/), version: 0.4.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.4.1.tar.gz#md5=6875e694bc5ed927c77b6619e3fe89b0 (from https://pypi.python.org/simple/httpie/), version: 0.4.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.5.0.tar.gz#md5=ada50384b8acb4726638e48d521cce3d (from https://pypi.python.org/simple/httpie/), version: 0.5.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.5.1.tar.gz#md5=939cec1a6a3e9f40dd4655369dd97dab (from https://pypi.python.org/simple/httpie/), version: 0.5.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.6.0.tar.gz#md5=441b750a527ba8dcec08a275cd97eab9 (from https://pypi.python.org/simple/httpie/), version: 0.6.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.7.0.tar.gz#md5=1636837c31694ef4d57b1580636b7892 (from https://pypi.python.org/simple/httpie/), version: 0.7.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.7.2.tar.gz#md5=09218336048596da757c4f0cf19642fd (from https://pypi.python.org/simple/httpie/), version: 0.7.2
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.8.0.tar.gz#md5=d78b17be565886f018bff05d6a292a75 (from https://pypi.python.org/simple/httpie/), version: 0.8.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.9.0.tar.gz#md5=22ecf24e4126fd080f799d95a7ca3037 (from https://pypi.python.org/simple/httpie/), version: 0.9.0
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.9.1.tar.gz#md5=eaa335be79938c3c0969056a5e392c58 (from https://pypi.python.org/simple/httpie/), version: 0.9.1
+    Found link https://pypi.python.org/packages/source/h/httpie/httpie-0.9.2.tar.gz#md5=8c5a7820c3f5221f30e9a70073efda3c (from https://pypi.python.org/simple/httpie/), version: 0.9.2
+    Skipping link http://developer.github.com/v3/issues/comments/#create-a-comment (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://packages.debian.org/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://packages.debian.org/wheezy/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://packages.ubuntu.com/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://packages.ubuntu.com/quantal/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://pygments.org/ (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://python-requests.org (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://roztocil.name (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://tox.testrun.org (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://tox.testrun.org/ (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://travis-ci.org/#%21/jkbr/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://travis-ci.org/jkbr/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link http://www.pip-installer.org/en/latest/index.html (from https://pypi.python.org/simple/httpie/); unknown archive format: .html
+    Skipping link https://github.com/claudiatd/httpie-artwork (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://github.com/jkbr/httpie (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://github.com/jkbr/httpie/blob/master/AUTHORS.rst (from https://pypi.python.org/simple/httpie/); unknown archive format: .rst
+    Skipping link https://github.com/jkbr/httpie/blob/master/LICENSE (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://github.com/jkbr/httpie/blob/master/tests/tests.py (from https://pypi.python.org/simple/httpie/); unknown archive format: .py
+    Skipping link https://github.com/jkbr/httpie/blob/master/tox.ini (from https://pypi.python.org/simple/httpie/); unknown archive format: .ini
+    Skipping link https://github.com/jkbr/httpie/compare/0.1.4...0.1.6 (from https://pypi.python.org/simple/httpie/); unknown archive format: .6
+    Skipping link https://github.com/jkbr/httpie/compare/0.1.6...0.2.0 (from https://pypi.python.org/simple/httpie/); unknown archive format: .0
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.0...0.2.1 (from https://pypi.python.org/simple/httpie/); unknown archive format: .1
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.0...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.1...0.2.2 (from https://pypi.python.org/simple/httpie/); unknown archive format: .2
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.1...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.2...0.2.5 (from https://pypi.python.org/simple/httpie/); unknown archive format: .5
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.2...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.5...0.2.6 (from https://pypi.python.org/simple/httpie/); unknown archive format: .6
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.5...0.2.7 (from https://pypi.python.org/simple/httpie/); unknown archive format: .7
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.6...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.7...0.3.0 (from https://pypi.python.org/simple/httpie/); unknown archive format: .0
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.7...0.3.1 (from https://pypi.python.org/simple/httpie/); unknown archive format: .1
+    Skipping link https://github.com/jkbr/httpie/compare/0.2.7...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.3.0...0.4.0 (from https://pypi.python.org/simple/httpie/); unknown archive format: .0
+    Skipping link https://github.com/jkbr/httpie/compare/0.4.0...0.4.1 (from https://pypi.python.org/simple/httpie/); unknown archive format: .1
+    Skipping link https://github.com/jkbr/httpie/compare/0.4.0...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.4.1...0.5.0 (from https://pypi.python.org/simple/httpie/); unknown archive format: .0
+    Skipping link https://github.com/jkbr/httpie/compare/0.5.0...0.5.1 (from https://pypi.python.org/simple/httpie/); unknown archive format: .1
+    Skipping link https://github.com/jkbr/httpie/compare/0.5.0...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/compare/0.5.1...master (from https://pypi.python.org/simple/httpie/); unknown archive format: .master
+    Skipping link https://github.com/jkbr/httpie/contributors (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://github.com/jkbr/httpie/issues/83 (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://github.com/jkbr/httpie/issues?state=open (from https://pypi.python.org/simple/httpie/); not a file
+    Skipping link https://twitter.com/jakubroztocil (from https://pypi.python.org/simple/httpie/); not a file
+  Using version 0.9.2 (newest of versions: 0.9.2, 0.9.1, 0.9.0, 0.8.0, 0.7.2, 0.7.0, 0.6.0, 0.5.1, 0.5.0, 0.4.1, 0.4.0, 0.3.1, 0.3.0, 0.2.7, 0.2.6, 0.2.5, 0.2.4, 0.2.4dev, 0.2.3, 0.2.2, 0.2.1, 0.2.0, 0.1.6, 0.1.5, 0.1.4, 0.1.3, 0.1.2, 0.1.1, 0.1)
+  Downloading from URL https://pypi.python.org/packages/source/h/httpie/httpie-0.9.2.tar.gz#md5=8c5a7820c3f5221f30e9a70073efda3c (from https://pypi.python.org/simple/httpie/)
+  Running setup.py egg_info for package httpie
+    running egg_info
+    creating pip-egg-info/httpie.egg-info
+    writing requirements to pip-egg-info/httpie.egg-info/requires.txt
+    writing pip-egg-info/httpie.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/httpie.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/httpie.egg-info/dependency_links.txt
+    writing entry points to pip-egg-info/httpie.egg-info/entry_points.txt
+    writing manifest file 'pip-egg-info/httpie.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/httpie.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/httpie.egg-info/SOURCES.txt'
+  Source in ./build/httpie has version 0.9.2, which satisfies requirement httpie
+Downloading/unpacking requests>=2.3.0 (from httpie)
+  Getting page http://pypi.python.org/simple/requests
+  URLs to search for versions for requests>=2.3.0 (from httpie):
+  * http://pypi.python.org/simple/requests
+  Analyzing links from page https://pypi.python.org/simple/requests/
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.0.0-py2.py3-none-any.whl#md5=6af9c16dbddd2fc751ae4f1606d041e8 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.0.1-py2.py3-none-any.whl#md5=d524f9a38a29efe1732fd130e5ebe433 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.1.0-py2.py3-none-any.whl#md5=0848cbc0cc7edd150cb8d6ddc25ca906 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.2.0-py2.py3-none-any.whl#md5=8f989615bb0d276d5f3158e7efab494c (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.2.1-py2.py3-none-any.whl#md5=1e38addb978e50bd86f62bda53956b03 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.3.0-py2.py3-none-any.whl#md5=f2d850fd48fc10a93aa03d69b87b96b4 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.4.0-py2.py3-none-any.whl#md5=47948d2fb3f2aa04235e6f637814b226 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.4.1-py2.py3-none-any.whl#md5=19d5413dc71309e4fb1f8103b8eb99ce (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.4.2-py2.py3-none-any.whl#md5=f49f34b1fcdef6b557964deea1a80cf3 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/r/requests/requests-2.4.3-py2.py3-none-any.whl#md5=0a66a9c4c22272680430fbb9fb4ca34f (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2.py3/r/requests/requests-2.5.0-py2.py3-none-any.whl#md5=9d29a8a0210c236d9329bed49277b3fa (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2.py3/r/requests/requests-2.5.1-py2.py3-none-any.whl#md5=11dc91bc96c5c5e0b566ce8f9c9644ab (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2.py3/r/requests/requests-2.5.2-py2.py3-none-any.whl#md5=7e72dfe8ed9d4ce5fd9dd9d799b3add1 (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2.py3/r/requests/requests-2.5.3-py2.py3-none-any.whl#md5=233249f4627ac5481c948e494d2a090e (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/py2.py3/r/requests/requests-2.6.0-py2.py3-none-any.whl#md5=3ab1972bbaf2802d94516fb86b9b0d0b (from https://pypi.python.org/simple/requests/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.0.tar.gz#md5=c90a48af18eb4170dbe4832c1104440c (from https://pypi.python.org/simple/requests/), version: 0.10.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.1.tar.gz#md5=699147d2143bff95238befa58980b912 (from https://pypi.python.org/simple/requests/), version: 0.10.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.2.tar.gz#md5=47c3cf85a0112d423137b43989663bef (from https://pypi.python.org/simple/requests/), version: 0.10.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.3.tar.gz#md5=a055af00593f4828c3becd0ccfab503f (from https://pypi.python.org/simple/requests/), version: 0.10.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.4.tar.gz#md5=5e465e9e739bcc9f71935ca4e9706168 (from https://pypi.python.org/simple/requests/), version: 0.10.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.6.tar.gz#md5=c889401445de3cbbac98509208a73b83 (from https://pypi.python.org/simple/requests/), version: 0.10.6
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.7.tar.gz#md5=a3ac9d431981dcfd592fd0f35c499e4a (from https://pypi.python.org/simple/requests/), version: 0.10.7
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.10.8.tar.gz#md5=0fc89a30eef76b2393cbc7ebace91750 (from https://pypi.python.org/simple/requests/), version: 0.10.8
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.11.1.tar.gz#md5=c903c32a0e1f04889e693da8e9c71872 (from https://pypi.python.org/simple/requests/), version: 0.11.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.11.2.tar.gz#md5=5acd23600c897bf1560dca18005b428c (from https://pypi.python.org/simple/requests/), version: 0.11.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.12.0.tar.gz#md5=c38bacf4d6a065f3c47463e63efdfb5a (from https://pypi.python.org/simple/requests/), version: 0.12.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.12.1.tar.gz#md5=fe9e0515d09733d0eb9e2031c03401b2 (from https://pypi.python.org/simple/requests/), version: 0.12.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.0.tar.gz#md5=7d41e51c273806456faab61370d5147e (from https://pypi.python.org/simple/requests/), version: 0.13.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.1.tar.gz#md5=31a08091feeefe60817e45122d933219 (from https://pypi.python.org/simple/requests/), version: 0.13.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.2.tar.gz#md5=fac5635391778e2394a411d37e69ae5e (from https://pypi.python.org/simple/requests/), version: 0.13.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.3.tar.gz#md5=54387d7df6c69580b906dcb5a2bd0724 (from https://pypi.python.org/simple/requests/), version: 0.13.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.4.tar.gz#md5=286cd3352509691e81c520accc5b9e48 (from https://pypi.python.org/simple/requests/), version: 0.13.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.5.tar.gz#md5=805fd122b4cfd224e15ff2f5288c5ba0 (from https://pypi.python.org/simple/requests/), version: 0.13.5
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.6.tar.gz#md5=9ea0f38cc4bf444be5a4c90f127211f2 (from https://pypi.python.org/simple/requests/), version: 0.13.6
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.7.tar.gz#md5=9212044f915d44fe3010cb923c0e08e5 (from https://pypi.python.org/simple/requests/), version: 0.13.7
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.8.tar.gz#md5=d01596bd344db94763b2e4dfaa7bc7b9 (from https://pypi.python.org/simple/requests/), version: 0.13.8
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.13.9.tar.gz#md5=66d52b8f47be517fc91a6e18d6b9ce82 (from https://pypi.python.org/simple/requests/), version: 0.13.9
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.14.0.tar.gz#md5=a809c747e4f09b92147721ebc3e23dd6 (from https://pypi.python.org/simple/requests/), version: 0.14.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.14.1.tar.gz#md5=3de30600072cbc7214ae342d1d08aa46 (from https://pypi.python.org/simple/requests/), version: 0.14.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.14.2.tar.gz#md5=488508ba3e8270992ad5b3fb54d364ca (from https://pypi.python.org/simple/requests/), version: 0.14.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.2.0.tar.gz#md5=637ae94cb6f2f1d9ea9020293055964a (from https://pypi.python.org/simple/requests/), version: 0.2.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.2.1.tar.gz#md5=7e9590f3985ece46fc8306e906b458c7 (from https://pypi.python.org/simple/requests/), version: 0.2.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.2.2.tar.gz#md5=a703489b1a4a650698ddcf84857360c6 (from https://pypi.python.org/simple/requests/), version: 0.2.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.2.3.tar.gz#md5=102243646fc0cffdc82269f4bb5c6d5d (from https://pypi.python.org/simple/requests/), version: 0.2.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.2.4.tar.gz#md5=62dbe8cf12bc1ccd03776e74f59e9ef6 (from https://pypi.python.org/simple/requests/), version: 0.2.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.3.0.tar.gz#md5=aa1306575a78ba8b5e625dd2645d2ef0 (from https://pypi.python.org/simple/requests/), version: 0.3.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.3.1.tar.gz#md5=3f4701e2ab414cd7018804a70328c527 (from https://pypi.python.org/simple/requests/), version: 0.3.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.3.2.tar.gz#md5=bde777f4c5b7bbb09033901c443962b3 (from https://pypi.python.org/simple/requests/), version: 0.3.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.3.3.tar.gz#md5=84c762c116617ba4dd03c19e2b61eb53 (from https://pypi.python.org/simple/requests/), version: 0.3.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.3.4.tar.gz#md5=55152cc2b135bc8989dc4fa279295f8b (from https://pypi.python.org/simple/requests/), version: 0.3.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.4.0.tar.gz#md5=77a7a7edd54169c6fa7ace49dcb0b20c (from https://pypi.python.org/simple/requests/), version: 0.4.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.4.1.tar.gz#md5=812ff0ce63d14f7b940bacd880d54ee0 (from https://pypi.python.org/simple/requests/), version: 0.4.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.5.0.tar.gz#md5=6dfdc1688217d774d524e056ec6605a6 (from https://pypi.python.org/simple/requests/), version: 0.5.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.5.1.tar.gz#md5=33a6e65d6a4e5b2d91df76256f607b81 (from https://pypi.python.org/simple/requests/), version: 0.5.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.0.tar.gz#md5=235e9fb6bfd71a48c0f00c0d5aef8896 (from https://pypi.python.org/simple/requests/), version: 0.6.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.1.tar.gz#md5=07770334d48bd69ede1cc28cd0dd7680 (from https://pypi.python.org/simple/requests/), version: 0.6.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.2.tar.gz#md5=0583bb5393b9cfcb022dc2aef7d6ffc8 (from https://pypi.python.org/simple/requests/), version: 0.6.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.3.tar.gz#md5=35a954ae85b358e498fb0e602f1dce9d (from https://pypi.python.org/simple/requests/), version: 0.6.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.4.tar.gz#md5=e0eec314178ad9a7bb14f2ec32f35ba3 (from https://pypi.python.org/simple/requests/), version: 0.6.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.5.tar.gz#md5=52f8bc956e027c8a0eb2684f6928169d (from https://pypi.python.org/simple/requests/), version: 0.6.5
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.6.6.tar.gz#md5=2180dacebc0e30ba730d083739907af6 (from https://pypi.python.org/simple/requests/), version: 0.6.6
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.0.tar.gz#md5=83a1a7d79218756efd19b254eeb6b1f0 (from https://pypi.python.org/simple/requests/), version: 0.7.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.1.tar.gz#md5=4821c6902d8e83c910c69c6492388e5f (from https://pypi.python.org/simple/requests/), version: 0.7.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.2.tar.gz#md5=03eb97ed6aacb4102fd434bbfc13ce17 (from https://pypi.python.org/simple/requests/), version: 0.7.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.3.tar.gz#md5=267f6f7d1109775d24a288f798e3ab4a (from https://pypi.python.org/simple/requests/), version: 0.7.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.4.tar.gz#md5=c015765399b8c1e309c84ade0d38f07b (from https://pypi.python.org/simple/requests/), version: 0.7.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.5.tar.gz#md5=9a12281a811ca25d347d806c456d96f1 (from https://pypi.python.org/simple/requests/), version: 0.7.5
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.7.6.tar.gz#md5=728b21bf3914d69a4ff1012c66d9b6ba (from https://pypi.python.org/simple/requests/), version: 0.7.6
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.0.tar.gz#md5=64dc0095cb645aa7f0083957950d524d (from https://pypi.python.org/simple/requests/), version: 0.8.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.1.tar.gz#md5=6135f837fbd113fc62904c60dcc5c70d (from https://pypi.python.org/simple/requests/), version: 0.8.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.2.tar.gz#md5=bdbbd7f45688e23e87eec52835959943 (from https://pypi.python.org/simple/requests/), version: 0.8.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.3.tar.gz#md5=93e4cd27ab646fb613a926fede1cc4f5 (from https://pypi.python.org/simple/requests/), version: 0.8.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.4.tar.gz#md5=642e5c70250989e4feda9c50be57b100 (from https://pypi.python.org/simple/requests/), version: 0.8.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.5.tar.gz#md5=5f2975ee9e57f4ea000e5a3f50fc85d1 (from https://pypi.python.org/simple/requests/), version: 0.8.5
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.6.tar.gz#md5=21b03926ab38417a704ebce57972571a (from https://pypi.python.org/simple/requests/), version: 0.8.6
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.7.tar.gz#md5=e4d4ee3a90396908bd04b50bf2136617 (from https://pypi.python.org/simple/requests/), version: 0.8.7
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.8.tar.gz#md5=bfb182cfd3ed839b97744c553b87f502 (from https://pypi.python.org/simple/requests/), version: 0.8.8
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.8.9.tar.gz#md5=ff5b3bf5bc3ad19930d3f3afe51f182b (from https://pypi.python.org/simple/requests/), version: 0.8.9
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.9.0.tar.gz#md5=5f6f03ec76f68a7a3f35120ab5a6c589 (from https://pypi.python.org/simple/requests/), version: 0.9.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.9.1.tar.gz#md5=8ed4667edb5d57945b74a9137adbb8bd (from https://pypi.python.org/simple/requests/), version: 0.9.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.9.2.tar.gz#md5=65b36d99a4d2f78a22f08c95d2475e33 (from https://pypi.python.org/simple/requests/), version: 0.9.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-0.9.3.tar.gz#md5=b13b6fbfa8fc3fc3c25bae300748053f (from https://pypi.python.org/simple/requests/), version: 0.9.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.0.0.tar.gz#md5=099c9035c4b30a7ae5484b1beabc7407 (from https://pypi.python.org/simple/requests/), version: 1.0.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.0.1.tar.gz#md5=2e938f26f2bdf2899862c751bfa7eff5 (from https://pypi.python.org/simple/requests/), version: 1.0.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.0.2.tar.gz#md5=e5c1a5a5472cd61f144743dd25a2a29f (from https://pypi.python.org/simple/requests/), version: 1.0.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.0.3.tar.gz#md5=a3169a33973d4b5b51843ead01c5e999 (from https://pypi.python.org/simple/requests/), version: 1.0.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.0.4.tar.gz#md5=0b7448f9e1a077a7218720575003a1b6 (from https://pypi.python.org/simple/requests/), version: 1.0.4
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.1.0.tar.gz#md5=a0158815af244c32041a3147ee09abf3 (from https://pypi.python.org/simple/requests/), version: 1.1.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.2.0.tar.gz#md5=22af2682233770e5468a986f451c51c0 (from https://pypi.python.org/simple/requests/), version: 1.2.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.2.1.tar.gz#md5=4d019670b94b17e329007d64e67e045e (from https://pypi.python.org/simple/requests/), version: 1.2.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.2.2.tar.gz#md5=1f655ab7f2aa7447a1657ed69786f436 (from https://pypi.python.org/simple/requests/), version: 1.2.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-1.2.3.tar.gz#md5=adbd3f18445f7fe5e77f65c502e264fb (from https://pypi.python.org/simple/requests/), version: 1.2.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.0.0.tar.gz#md5=856fc825c17483e25fd55db115028e3f (from https://pypi.python.org/simple/requests/), version: 2.0.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.0.1.tar.gz#md5=38e61c2856d2ba2782286730241975e6 (from https://pypi.python.org/simple/requests/), version: 2.0.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.1.0.tar.gz#md5=28543001831f46b1ff40686ebc027deb (from https://pypi.python.org/simple/requests/), version: 2.1.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.2.0.tar.gz#md5=4d2e17221d478ece045e2e81cdb177f5 (from https://pypi.python.org/simple/requests/), version: 2.2.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.2.1.tar.gz#md5=ac27081135f58d1a43e4fb38258d6f4e (from https://pypi.python.org/simple/requests/), version: 2.2.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.3.0.tar.gz#md5=7449ffdc8ec9ac37bbcd286003c80f00 (from https://pypi.python.org/simple/requests/), version: 2.3.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.4.0.tar.gz#md5=99b830d1afe2e5920adbea0fe3120948 (from https://pypi.python.org/simple/requests/), version: 2.4.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.4.1.tar.gz#md5=931461f761c70708c46ea65b7889da58 (from https://pypi.python.org/simple/requests/), version: 2.4.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.4.2.tar.gz#md5=a2476d2dd83a0520847f216ce0b5f9d1 (from https://pypi.python.org/simple/requests/), version: 2.4.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.4.3.tar.gz#md5=02214b3a179e445545de4b7a98d3dd17 (from https://pypi.python.org/simple/requests/), version: 2.4.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.5.0.tar.gz#md5=b8bf3ddca75e7ecf1b6776da1e6e3385 (from https://pypi.python.org/simple/requests/), version: 2.5.0
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.5.1.tar.gz#md5=c270eb5551a02e8ab7a4cbb83e22af2e (from https://pypi.python.org/simple/requests/), version: 2.5.1
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.5.2.tar.gz#md5=424e2469202c9bace4e8bf4642d4217a (from https://pypi.python.org/simple/requests/), version: 2.5.2
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.5.3.tar.gz#md5=23bf4fcc89ea8d353eb5353bb4a475b1 (from https://pypi.python.org/simple/requests/), version: 2.5.3
+    Found link https://pypi.python.org/packages/source/r/requests/requests-2.6.0.tar.gz#md5=25287278fa3ea106207461112bb37050 (from https://pypi.python.org/simple/requests/), version: 2.6.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-2.2.1.tar.gz#md5=ac27081135f58d1a43e4fb38258d6f4e (from https://pypi.python.org/simple/requests/), version 2.2.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-2.2.0.tar.gz#md5=4d2e17221d478ece045e2e81cdb177f5 (from https://pypi.python.org/simple/requests/), version 2.2.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-2.1.0.tar.gz#md5=28543001831f46b1ff40686ebc027deb (from https://pypi.python.org/simple/requests/), version 2.1.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-2.0.1.tar.gz#md5=38e61c2856d2ba2782286730241975e6 (from https://pypi.python.org/simple/requests/), version 2.0.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-2.0.0.tar.gz#md5=856fc825c17483e25fd55db115028e3f (from https://pypi.python.org/simple/requests/), version 2.0.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.2.3.tar.gz#md5=adbd3f18445f7fe5e77f65c502e264fb (from https://pypi.python.org/simple/requests/), version 1.2.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.2.2.tar.gz#md5=1f655ab7f2aa7447a1657ed69786f436 (from https://pypi.python.org/simple/requests/), version 1.2.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.2.1.tar.gz#md5=4d019670b94b17e329007d64e67e045e (from https://pypi.python.org/simple/requests/), version 1.2.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.2.0.tar.gz#md5=22af2682233770e5468a986f451c51c0 (from https://pypi.python.org/simple/requests/), version 1.2.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.1.0.tar.gz#md5=a0158815af244c32041a3147ee09abf3 (from https://pypi.python.org/simple/requests/), version 1.1.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.0.4.tar.gz#md5=0b7448f9e1a077a7218720575003a1b6 (from https://pypi.python.org/simple/requests/), version 1.0.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.0.3.tar.gz#md5=a3169a33973d4b5b51843ead01c5e999 (from https://pypi.python.org/simple/requests/), version 1.0.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.0.2.tar.gz#md5=e5c1a5a5472cd61f144743dd25a2a29f (from https://pypi.python.org/simple/requests/), version 1.0.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.0.1.tar.gz#md5=2e938f26f2bdf2899862c751bfa7eff5 (from https://pypi.python.org/simple/requests/), version 1.0.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-1.0.0.tar.gz#md5=099c9035c4b30a7ae5484b1beabc7407 (from https://pypi.python.org/simple/requests/), version 1.0.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.14.2.tar.gz#md5=488508ba3e8270992ad5b3fb54d364ca (from https://pypi.python.org/simple/requests/), version 0.14.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.14.1.tar.gz#md5=3de30600072cbc7214ae342d1d08aa46 (from https://pypi.python.org/simple/requests/), version 0.14.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.14.0.tar.gz#md5=a809c747e4f09b92147721ebc3e23dd6 (from https://pypi.python.org/simple/requests/), version 0.14.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.9.tar.gz#md5=66d52b8f47be517fc91a6e18d6b9ce82 (from https://pypi.python.org/simple/requests/), version 0.13.9 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.8.tar.gz#md5=d01596bd344db94763b2e4dfaa7bc7b9 (from https://pypi.python.org/simple/requests/), version 0.13.8 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.7.tar.gz#md5=9212044f915d44fe3010cb923c0e08e5 (from https://pypi.python.org/simple/requests/), version 0.13.7 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.6.tar.gz#md5=9ea0f38cc4bf444be5a4c90f127211f2 (from https://pypi.python.org/simple/requests/), version 0.13.6 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.5.tar.gz#md5=805fd122b4cfd224e15ff2f5288c5ba0 (from https://pypi.python.org/simple/requests/), version 0.13.5 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.4.tar.gz#md5=286cd3352509691e81c520accc5b9e48 (from https://pypi.python.org/simple/requests/), version 0.13.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.3.tar.gz#md5=54387d7df6c69580b906dcb5a2bd0724 (from https://pypi.python.org/simple/requests/), version 0.13.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.2.tar.gz#md5=fac5635391778e2394a411d37e69ae5e (from https://pypi.python.org/simple/requests/), version 0.13.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.1.tar.gz#md5=31a08091feeefe60817e45122d933219 (from https://pypi.python.org/simple/requests/), version 0.13.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.13.0.tar.gz#md5=7d41e51c273806456faab61370d5147e (from https://pypi.python.org/simple/requests/), version 0.13.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.12.1.tar.gz#md5=fe9e0515d09733d0eb9e2031c03401b2 (from https://pypi.python.org/simple/requests/), version 0.12.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.12.0.tar.gz#md5=c38bacf4d6a065f3c47463e63efdfb5a (from https://pypi.python.org/simple/requests/), version 0.12.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.11.2.tar.gz#md5=5acd23600c897bf1560dca18005b428c (from https://pypi.python.org/simple/requests/), version 0.11.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.11.1.tar.gz#md5=c903c32a0e1f04889e693da8e9c71872 (from https://pypi.python.org/simple/requests/), version 0.11.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.8.tar.gz#md5=0fc89a30eef76b2393cbc7ebace91750 (from https://pypi.python.org/simple/requests/), version 0.10.8 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.7.tar.gz#md5=a3ac9d431981dcfd592fd0f35c499e4a (from https://pypi.python.org/simple/requests/), version 0.10.7 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.6.tar.gz#md5=c889401445de3cbbac98509208a73b83 (from https://pypi.python.org/simple/requests/), version 0.10.6 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.4.tar.gz#md5=5e465e9e739bcc9f71935ca4e9706168 (from https://pypi.python.org/simple/requests/), version 0.10.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.3.tar.gz#md5=a055af00593f4828c3becd0ccfab503f (from https://pypi.python.org/simple/requests/), version 0.10.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.2.tar.gz#md5=47c3cf85a0112d423137b43989663bef (from https://pypi.python.org/simple/requests/), version 0.10.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.1.tar.gz#md5=699147d2143bff95238befa58980b912 (from https://pypi.python.org/simple/requests/), version 0.10.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.10.0.tar.gz#md5=c90a48af18eb4170dbe4832c1104440c (from https://pypi.python.org/simple/requests/), version 0.10.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.9.3.tar.gz#md5=b13b6fbfa8fc3fc3c25bae300748053f (from https://pypi.python.org/simple/requests/), version 0.9.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.9.2.tar.gz#md5=65b36d99a4d2f78a22f08c95d2475e33 (from https://pypi.python.org/simple/requests/), version 0.9.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.9.1.tar.gz#md5=8ed4667edb5d57945b74a9137adbb8bd (from https://pypi.python.org/simple/requests/), version 0.9.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.9.0.tar.gz#md5=5f6f03ec76f68a7a3f35120ab5a6c589 (from https://pypi.python.org/simple/requests/), version 0.9.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.9.tar.gz#md5=ff5b3bf5bc3ad19930d3f3afe51f182b (from https://pypi.python.org/simple/requests/), version 0.8.9 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.8.tar.gz#md5=bfb182cfd3ed839b97744c553b87f502 (from https://pypi.python.org/simple/requests/), version 0.8.8 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.7.tar.gz#md5=e4d4ee3a90396908bd04b50bf2136617 (from https://pypi.python.org/simple/requests/), version 0.8.7 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.6.tar.gz#md5=21b03926ab38417a704ebce57972571a (from https://pypi.python.org/simple/requests/), version 0.8.6 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.5.tar.gz#md5=5f2975ee9e57f4ea000e5a3f50fc85d1 (from https://pypi.python.org/simple/requests/), version 0.8.5 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.4.tar.gz#md5=642e5c70250989e4feda9c50be57b100 (from https://pypi.python.org/simple/requests/), version 0.8.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.3.tar.gz#md5=93e4cd27ab646fb613a926fede1cc4f5 (from https://pypi.python.org/simple/requests/), version 0.8.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.2.tar.gz#md5=bdbbd7f45688e23e87eec52835959943 (from https://pypi.python.org/simple/requests/), version 0.8.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.1.tar.gz#md5=6135f837fbd113fc62904c60dcc5c70d (from https://pypi.python.org/simple/requests/), version 0.8.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.8.0.tar.gz#md5=64dc0095cb645aa7f0083957950d524d (from https://pypi.python.org/simple/requests/), version 0.8.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.6.tar.gz#md5=728b21bf3914d69a4ff1012c66d9b6ba (from https://pypi.python.org/simple/requests/), version 0.7.6 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.5.tar.gz#md5=9a12281a811ca25d347d806c456d96f1 (from https://pypi.python.org/simple/requests/), version 0.7.5 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.4.tar.gz#md5=c015765399b8c1e309c84ade0d38f07b (from https://pypi.python.org/simple/requests/), version 0.7.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.3.tar.gz#md5=267f6f7d1109775d24a288f798e3ab4a (from https://pypi.python.org/simple/requests/), version 0.7.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.2.tar.gz#md5=03eb97ed6aacb4102fd434bbfc13ce17 (from https://pypi.python.org/simple/requests/), version 0.7.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.1.tar.gz#md5=4821c6902d8e83c910c69c6492388e5f (from https://pypi.python.org/simple/requests/), version 0.7.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.7.0.tar.gz#md5=83a1a7d79218756efd19b254eeb6b1f0 (from https://pypi.python.org/simple/requests/), version 0.7.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.6.tar.gz#md5=2180dacebc0e30ba730d083739907af6 (from https://pypi.python.org/simple/requests/), version 0.6.6 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.5.tar.gz#md5=52f8bc956e027c8a0eb2684f6928169d (from https://pypi.python.org/simple/requests/), version 0.6.5 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.4.tar.gz#md5=e0eec314178ad9a7bb14f2ec32f35ba3 (from https://pypi.python.org/simple/requests/), version 0.6.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.3.tar.gz#md5=35a954ae85b358e498fb0e602f1dce9d (from https://pypi.python.org/simple/requests/), version 0.6.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.2.tar.gz#md5=0583bb5393b9cfcb022dc2aef7d6ffc8 (from https://pypi.python.org/simple/requests/), version 0.6.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.1.tar.gz#md5=07770334d48bd69ede1cc28cd0dd7680 (from https://pypi.python.org/simple/requests/), version 0.6.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.6.0.tar.gz#md5=235e9fb6bfd71a48c0f00c0d5aef8896 (from https://pypi.python.org/simple/requests/), version 0.6.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.5.1.tar.gz#md5=33a6e65d6a4e5b2d91df76256f607b81 (from https://pypi.python.org/simple/requests/), version 0.5.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.5.0.tar.gz#md5=6dfdc1688217d774d524e056ec6605a6 (from https://pypi.python.org/simple/requests/), version 0.5.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.4.1.tar.gz#md5=812ff0ce63d14f7b940bacd880d54ee0 (from https://pypi.python.org/simple/requests/), version 0.4.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.4.0.tar.gz#md5=77a7a7edd54169c6fa7ace49dcb0b20c (from https://pypi.python.org/simple/requests/), version 0.4.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.3.4.tar.gz#md5=55152cc2b135bc8989dc4fa279295f8b (from https://pypi.python.org/simple/requests/), version 0.3.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.3.3.tar.gz#md5=84c762c116617ba4dd03c19e2b61eb53 (from https://pypi.python.org/simple/requests/), version 0.3.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.3.2.tar.gz#md5=bde777f4c5b7bbb09033901c443962b3 (from https://pypi.python.org/simple/requests/), version 0.3.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.3.1.tar.gz#md5=3f4701e2ab414cd7018804a70328c527 (from https://pypi.python.org/simple/requests/), version 0.3.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.3.0.tar.gz#md5=aa1306575a78ba8b5e625dd2645d2ef0 (from https://pypi.python.org/simple/requests/), version 0.3.0 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.2.4.tar.gz#md5=62dbe8cf12bc1ccd03776e74f59e9ef6 (from https://pypi.python.org/simple/requests/), version 0.2.4 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.2.3.tar.gz#md5=102243646fc0cffdc82269f4bb5c6d5d (from https://pypi.python.org/simple/requests/), version 0.2.3 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.2.2.tar.gz#md5=a703489b1a4a650698ddcf84857360c6 (from https://pypi.python.org/simple/requests/), version 0.2.2 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.2.1.tar.gz#md5=7e9590f3985ece46fc8306e906b458c7 (from https://pypi.python.org/simple/requests/), version 0.2.1 doesn't match >=2.3.0
+  Ignoring link https://pypi.python.org/packages/source/r/requests/requests-0.2.0.tar.gz#md5=637ae94cb6f2f1d9ea9020293055964a (from https://pypi.python.org/simple/requests/), version 0.2.0 doesn't match >=2.3.0
+  Using version 2.6.0 (newest of versions: 2.6.0, 2.5.3, 2.5.2, 2.5.1, 2.5.0, 2.4.3, 2.4.2, 2.4.1, 2.4.0, 2.3.0)
+  Downloading from URL https://pypi.python.org/packages/source/r/requests/requests-2.6.0.tar.gz#md5=25287278fa3ea106207461112bb37050 (from https://pypi.python.org/simple/requests/)
+  Running setup.py egg_info for package requests
+    running egg_info
+    creating pip-egg-info/requests.egg-info
+    writing requirements to pip-egg-info/requests.egg-info/requires.txt
+    writing pip-egg-info/requests.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/requests.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/requests.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/requests.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/requests.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/requests.egg-info/SOURCES.txt'
+  Source in ./build/requests has version 2.6.0, which satisfies requirement requests>=2.3.0 (from httpie)
+Downloading/unpacking Pygments>=1.5 (from httpie)
+  Getting page http://pypi.python.org/simple/Pygments
+  URLs to search for versions for Pygments>=1.5 (from httpie):
+  * http://pypi.python.org/simple/Pygments
+  Analyzing links from page https://pypi.python.org/simple/pygments/
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.10-py2.3.egg#md5=ab204150f3c7745e4db10b9f9d8c5b03 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.11-py2.3.egg#md5=bf04ca995de7321f5df3f0b58e45726d (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.11.1-py2.3.egg#md5=4802519f36d9c6027534a45a8e6bcc68 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.5-py2.3.egg#md5=17fadb28442619f29890ac731a96a533 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.5.1-py2.3.egg#md5=34195e47304f73e5a3a62ec3b59a8bab (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.6-py2.3.egg#md5=01074a45182979ca396d84810563a17c (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.7-py2.3.egg#md5=bf72eed4be1b87d794c0d95ab29cf1a9 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.7.1-py2.3.egg#md5=29d1bf5022387f08be4bb27d675fb65d (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.8-py2.3.egg#md5=31ecde12558caf9e123762b4a4216e7c (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.8.1-py2.3.egg#md5=74564b1f6bd66d1c48ed515b39d21c45 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-0.9-py2.3.egg#md5=946ebc41c5886244816f42c4b69fb971 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.3/P/Pygments/Pygments-1.0-py2.3.egg#md5=59bd7f7c7ada6838c3f3da34e34fe807 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.10-py2.4.egg#md5=64cd2373677945c6b1a4fc6443dddcf4 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.11-py2.4.egg#md5=3c571502b55a6002886722ad0350ce84 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.11.1-py2.4.egg#md5=52d7a46a91a4a426f8fbc681c5c6f1f5 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.5-py2.4.egg#md5=ffbef7404026fc4aeadec89cadbf0090 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.5.1-py2.4.egg#md5=d19191cef697fbe86fb77798b5c84c04 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.6-py2.4.egg#md5=45260de64626d97e11aa2dfdb1bf3ef1 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.7-py2.4.egg#md5=991a04ebc3bd84f2c55e2c9aafdb9685 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.7.1-py2.4.egg#md5=483d1ee9525e3243d83c2f9a95b8e493 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.8-py2.4.egg#md5=2433de424e96cf9c5707ee7f31f61047 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.8.1-py2.4.egg#md5=97bd47b9fcef37b8fc44dbfde8721cad (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-0.9-py2.4.egg#md5=0f885e4d7c9be64976b897cf89aae288 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.0-py2.4.egg#md5=7498b5424b5a16c1be956e4f77e7fd04 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.1-py2.4.egg#md5=729a0cfb8c5c9fbff6d148c5e829fd9d (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.1.1-py2.4.egg#md5=a11e234936cc0daf238a0c1a7fddfdad (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.2-py2.4.egg#md5=48f8645cfb2452da94851195f8ad9b45 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.2.1-py2.4.egg#md5=c5fd87cf9eba189d809b08f8ab414454 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.2.2-py2.4.egg#md5=771eab6c53105b160acf4e5583894201 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.3-py2.4.egg#md5=c2e988a387b1e71837485602defe3c47 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.3.1-py2.4.egg#md5=5e9519be1acd4d1b14937295d55bdab9 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.4/P/Pygments/Pygments-1.4-py2.4.egg#md5=619325b28c60a1ac96ba1c9b301149c6 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.10-py2.5.egg#md5=78b66644604e786cb096e4250ec3a896 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.11-py2.5.egg#md5=0c8e73d3a808f8d32b97ea7e90fc36f6 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.11.1-py2.5.egg#md5=fde2a28ca83e5fca16f5ee72a67af719 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.5-py2.5.egg#md5=d046e571f0ec37fe0b53d18fb85fca7e (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.5.1-py2.5.egg#md5=261d5ace71cb52db9838cd431cf7e06b (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.6-py2.5.egg#md5=d03bce826b82f9dddfaebe3f00ffb71b (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.7-py2.5.egg#md5=6b18972281ac104089cae70ac3d64c73 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.7.1-py2.5.egg#md5=60f739470ac24c4e3fa9e855ea39b47e (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.8-py2.5.egg#md5=b2e5ef665c54ebed555535a6e740865b (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.8.1-py2.5.egg#md5=7be7ada4df32c8de40e59bae7730d75d (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-0.9-py2.5.egg#md5=67e5ace0841016409084ca1833a55c90 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.0-py2.5.egg#md5=7e39d44a5b9ec0e037714863d5c6a2e6 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.1-py2.5.egg#md5=b80e6047b4a0b891c3dd51a337f82fa8 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.1.1-py2.5.egg#md5=f30d1b35a1df68c57788b0cad8e9d9b7 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.2-py2.5.egg#md5=15ff450d42316fe4c523d7ff7fcfe1eb (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.2.1-py2.5.egg#md5=0b3df89be7ff4ef3ac4c1526e90b70d8 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.2.2-py2.5.egg#md5=bbb12b2aba148e69923c7143d2af73bd (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.3-py2.5.egg#md5=ad4dd7aa13adfa5fec0f3d4b028b2aa5 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.3.1-py2.5.egg#md5=16e57c826292d420151ea95498f0d1f4 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.5/P/Pygments/Pygments-1.4-py2.5.egg#md5=c8979b9844ad9e39aeaf9469185a70a4 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.0-py2.6.egg#md5=ac2f4555581eab7e701826aea25f0064 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.1-py2.6.egg#md5=414937b8a0436aa172da557cab645fff (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.1.1-py2.6.egg#md5=310114f94710d28910fe2ed36bb79c8c (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.2-py2.6.egg#md5=cf5c76451abb9a4cd70770992517646e (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.2.1-py2.6.egg#md5=ab59806c94e95dab943bfd395f651013 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.2.2-py2.6.egg#md5=4c78e542315e7ef3a60a265b7eba107e (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.3-py2.6.egg#md5=25905d606bd47ca2e062a17e4319537f (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.3.1-py2.6.egg#md5=05270ee059c038407364b28993980960 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.4-py2.6.egg#md5=306241dd68799753cdb4a2c9ce8e883a (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.5-py2.6.egg#md5=359d667ed004b6d1bee20917a7d06a7b (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.6-py2.6.egg#md5=2584ae5795d01cefbff0744136df3f65 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.6/P/Pygments/Pygments-1.6rc1-py2.6.egg#md5=5c733e2bf7067a2cef1e4c066339d0dd (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-1.4-py2.7.egg#md5=acbdde4dae30efaba8cfa86dcb6070f2 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-1.5-py2.7.egg#md5=8ea02c2eafb2580336b7637be629f7ce (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-1.6-py2.7.egg#md5=1e1e52b1e434502682aab08938163034 (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-1.6rc1-py2.7.egg#md5=cb27d1ade95d892e4bebe2b3de16618b (from https://pypi.python.org/simple/pygments/); unknown archive format: .egg
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-2.0-py2-none-any.whl#md5=f340d027adaef19d306779811f3f0fd2 (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-2.0.1-py2-none-any.whl#md5=3ebdd5b2366b9a965161889238d6a531 (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-2.0.2-py2-none-any.whl#md5=98f29db02f4b22f58a2d3f60646e1e1f (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/2.7/P/Pygments/Pygments-2.0rc1-py2-none-any.whl#md5=e65fa2b149140024c73489286342385b (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/P/Pygments/Pygments-2.0-py3-none-any.whl#md5=ad090699de365d8baffb8ddf2117af97 (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/P/Pygments/Pygments-2.0.1-py3-none-any.whl#md5=acf7da68bef9467c893f85eeb9ca3c08 (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/P/Pygments/Pygments-2.0.2-py3-none-any.whl#md5=b38281817abc47c82cf3533b8c6608f6 (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Skipping link https://pypi.python.org/packages/3.3/P/Pygments/Pygments-2.0rc1-py3-none-any.whl#md5=641ec92677d73b38e601dc6e8bf7048d (from https://pypi.python.org/simple/pygments/); unknown archive format: .whl
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.10.tar.gz#md5=1f24bee773010d0d53690a6f4bdc8bdb (from https://pypi.python.org/simple/pygments/), version: 0.10
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.11.1.tar.gz#md5=a7dc555f316437ba5241855ac306209a (from https://pypi.python.org/simple/pygments/), version: 0.11.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.11.tar.gz#md5=5c27a000483079643715515b1b78c6df (from https://pypi.python.org/simple/pygments/), version: 0.11
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.5.1.tar.gz#md5=0a150344fa1342d99d2cd21fdca46a4c (from https://pypi.python.org/simple/pygments/), version: 0.5.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.5.tar.gz#md5=257bf399b12b815a7f18c9381dd53611 (from https://pypi.python.org/simple/pygments/), version: 0.5
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.6.tar.gz#md5=20565d0c088af98c36033bebfdfe5f09 (from https://pypi.python.org/simple/pygments/), version: 0.6
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.7.1.tar.gz#md5=8b5b50fb53ce39f94dbcf7040c0a441a (from https://pypi.python.org/simple/pygments/), version: 0.7.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.7.tar.gz#md5=31df83fbb7bc7b5822f66e932b1633e9 (from https://pypi.python.org/simple/pygments/), version: 0.7
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.8.1.tar.gz#md5=f71971cbe9db538a40ea808ac5da3dc0 (from https://pypi.python.org/simple/pygments/), version: 0.8.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.8.tar.gz#md5=037b8f65d36b8f283d135dac17ec1bf8 (from https://pypi.python.org/simple/pygments/), version: 0.8
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.9.tar.gz#md5=8cdce901a66c0febb576955e90814485 (from https://pypi.python.org/simple/pygments/), version: 0.9
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.0.tar.gz#md5=70c40ff5331460cabfcb24f86a8d451d (from https://pypi.python.org/simple/pygments/), version: 1.0
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.1.1.tar.gz#md5=80ac64669a75e2d6647822b2778e38c8 (from https://pypi.python.org/simple/pygments/), version: 1.1.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.1.tar.gz#md5=af52c60ae9f5906a92e4102e9076f6a0 (from https://pypi.python.org/simple/pygments/), version: 1.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.1.tar.gz#md5=f23d04efa2d346c52656a42a396d6442 (from https://pypi.python.org/simple/pygments/), version: 1.2.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.2.tar.gz#md5=920e706a817437eae3a1406380421a3d (from https://pypi.python.org/simple/pygments/), version: 1.2.2
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.tar.gz#md5=aa965efa5eb85203052afe7baa24e2d3 (from https://pypi.python.org/simple/pygments/), version: 1.2
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.3.1.tar.gz#md5=54be67c04834f13d7e255e1797d629a5 (from https://pypi.python.org/simple/pygments/), version: 1.3.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.3.tar.gz#md5=f5b7a55170243a78b9f41e3cf186d2da (from https://pypi.python.org/simple/pygments/), version: 1.3
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.4.tar.gz#md5=d77ac8c93a7fb27545f2522abe9cc462 (from https://pypi.python.org/simple/pygments/), version: 1.4
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.5.tar.gz#md5=ef997066cc9ee7a47d01fb4f3da0b5ff (from https://pypi.python.org/simple/pygments/), version: 1.5
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.6.tar.gz#md5=a18feedf6ffd0b0cc8c8b0fbdb2027b1 (from https://pypi.python.org/simple/pygments/), version: 1.6
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.6rc1.tar.gz#md5=633fbb59d2f05acedcafd8cd851d0935 (from https://pypi.python.org/simple/pygments/), version: 1.6rc1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-2.0.1.tar.gz#md5=e0daf4c14a4fe5b630da765904de4d6c (from https://pypi.python.org/simple/pygments/), version: 2.0.1
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-2.0.2.tar.gz#md5=238587a1370d62405edabd0794b3ec4a (from https://pypi.python.org/simple/pygments/), version: 2.0.2
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-2.0.tar.gz#md5=c51a9e19e5e6abc11910ef7162d5d9fc (from https://pypi.python.org/simple/pygments/), version: 2.0
+    Found link https://pypi.python.org/packages/source/P/Pygments/Pygments-2.0rc1.tar.gz#md5=4a88a7c0d81e5bb74c011aaa04d114a3 (from https://pypi.python.org/simple/pygments/), version: 2.0rc1
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.4.tar.gz#md5=d77ac8c93a7fb27545f2522abe9cc462 (from https://pypi.python.org/simple/pygments/), version 1.4 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.3.1.tar.gz#md5=54be67c04834f13d7e255e1797d629a5 (from https://pypi.python.org/simple/pygments/), version 1.3.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.3.tar.gz#md5=f5b7a55170243a78b9f41e3cf186d2da (from https://pypi.python.org/simple/pygments/), version 1.3 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.2.tar.gz#md5=920e706a817437eae3a1406380421a3d (from https://pypi.python.org/simple/pygments/), version 1.2.2 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.1.tar.gz#md5=f23d04efa2d346c52656a42a396d6442 (from https://pypi.python.org/simple/pygments/), version 1.2.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.2.tar.gz#md5=aa965efa5eb85203052afe7baa24e2d3 (from https://pypi.python.org/simple/pygments/), version 1.2 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.1.1.tar.gz#md5=80ac64669a75e2d6647822b2778e38c8 (from https://pypi.python.org/simple/pygments/), version 1.1.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.1.tar.gz#md5=af52c60ae9f5906a92e4102e9076f6a0 (from https://pypi.python.org/simple/pygments/), version 1.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-1.0.tar.gz#md5=70c40ff5331460cabfcb24f86a8d451d (from https://pypi.python.org/simple/pygments/), version 1.0 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.11.1.tar.gz#md5=a7dc555f316437ba5241855ac306209a (from https://pypi.python.org/simple/pygments/), version 0.11.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.11.tar.gz#md5=5c27a000483079643715515b1b78c6df (from https://pypi.python.org/simple/pygments/), version 0.11 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.10.tar.gz#md5=1f24bee773010d0d53690a6f4bdc8bdb (from https://pypi.python.org/simple/pygments/), version 0.10 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.9.tar.gz#md5=8cdce901a66c0febb576955e90814485 (from https://pypi.python.org/simple/pygments/), version 0.9 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.8.1.tar.gz#md5=f71971cbe9db538a40ea808ac5da3dc0 (from https://pypi.python.org/simple/pygments/), version 0.8.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.8.tar.gz#md5=037b8f65d36b8f283d135dac17ec1bf8 (from https://pypi.python.org/simple/pygments/), version 0.8 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.7.1.tar.gz#md5=8b5b50fb53ce39f94dbcf7040c0a441a (from https://pypi.python.org/simple/pygments/), version 0.7.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.7.tar.gz#md5=31df83fbb7bc7b5822f66e932b1633e9 (from https://pypi.python.org/simple/pygments/), version 0.7 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.6.tar.gz#md5=20565d0c088af98c36033bebfdfe5f09 (from https://pypi.python.org/simple/pygments/), version 0.6 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.5.1.tar.gz#md5=0a150344fa1342d99d2cd21fdca46a4c (from https://pypi.python.org/simple/pygments/), version 0.5.1 doesn't match >=1.5
+  Ignoring link https://pypi.python.org/packages/source/P/Pygments/Pygments-0.5.tar.gz#md5=257bf399b12b815a7f18c9381dd53611 (from https://pypi.python.org/simple/pygments/), version 0.5 doesn't match >=1.5
+  Using version 2.0.2 (newest of versions: 2.0.2, 2.0.1, 2.0, 2.0rc1, 1.6, 1.6rc1, 1.5)
+  Downloading from URL https://pypi.python.org/packages/source/P/Pygments/Pygments-2.0.2.tar.gz#md5=238587a1370d62405edabd0794b3ec4a (from https://pypi.python.org/simple/pygments/)
+Exception:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 408, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1757, in install_files
+    self.unpack_url(url, location)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1901, in unpack_url
+    self.unpack_file(temp_location, location, content_type, link)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1919, in unpack_file
+    self.untar_file(filename, location)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1988, in untar_file
+    fp = tar.extractfile(member)
+  File "/usr/lib/python2.6/tarfile.py", line 2122, in extractfile
+    tarinfo))
+  File "/usr/lib/python2.6/tarfile.py", line 2105, in extractfile
+    if tarinfo.isreg():
+AttributeError: 'NoneType' object has no attribute 'isreg'
