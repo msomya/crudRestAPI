@@ -1,0 +1,3 @@
+To successfully run these test we will be needing 'request' moudle of python.
+
+To install the request moudle do -> pip install request
