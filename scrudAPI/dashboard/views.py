@@ -35,4 +35,29 @@ def product_list(request):
             serializer.save()
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
+@csrf_exempt
+def production_detail(request):
 
+    if request.method == 'GET':
+        try:
+                item = request.GET.get('item', '')
+                year = request.GET.get('year', '')
+                param = []
+                if item != '':
+                        param.append(item)
+                if year != '':
+                        param.append(year)
+                if len(param) == 2:
+                        production = Production.objects.raw("SELECT * FROM production WHERE Item = %s AND year = %s",param)
+                elif len(param) == 1 and item != '':
+                        production = Production.objects.raw("SELECT * FROM production WHERE Item = %s",param)
+                elif len(param) == 1 and year != '':
+                        production = Production.objects.raw("SELECT * FROM production WHERE year = %s",param)
+        except Production.DoesNotExist:
+                return HttpResponse(status=404)
+        if len(param) == 2:
+                serializer = productionSerializer(production[0])
+                return JSONResponse(serializer.data)
+        elif len(param) == 1:
+                serializer = productionSerializer(production, many=True)
+                return JSONResponse(serializer.data)
